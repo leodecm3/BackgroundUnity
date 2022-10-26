@@ -1,24 +1,20 @@
-# Project Title
+## Background Unity
 
-This project goal is to prove that unity can be used as a back-end for another system. The game initiates hidden and keeps running without the user noticed.
+We always use Unity to develop front-end "games", but what about backend software/service?
+This project is a simple proof of concept that Unity can be used to develop such software.
 
-As proof of concept, it updates a TXT file.
+Since it's just proof of concept, all it will do is change a txt file without the user's knowledge! **The only way to know that the software is running is by opening the Task Manager.**
 
+## Use case
 
-## Getting Started
+This knowledge could be applied to develop an anti-cheating system entirely written in C# Unity or even a multiplayer server that does not appear on the windows taskbar.
 
-just oppen BUILD\abrir jogo.bat
+## How to open
 
-### Prerequisites
+The build is inside this repo. But to open it in hidde mode, you must use the Bat file. 
 
-Windows
+just oppen **BUILD\abrir jogo.bat**
 
- 
 ## Built With
 
 Unity 2020.1.6f1
-
-## Contributing
-
-fell free to submit pull requests to us. 
-
